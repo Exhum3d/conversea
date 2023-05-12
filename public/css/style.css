@@ -261,6 +261,11 @@ header .intro-text {
   background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
 }
+#expenses {
+  padding: 100px 0;
+  background: #f6f6f6;
+}
+
 /* About Section */
 #about {
   padding: 100px 0;

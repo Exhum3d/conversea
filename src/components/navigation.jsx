@@ -46,6 +46,11 @@ export const Navigation = props => {
                 Echipa Noastră
               </a>
             </li>
+            <li>
+              <a href="#expenses" className="page-scroll">
+                Cheltuieli
+              </a>
+            </li>
           </ul>
         </div>
       </div>
