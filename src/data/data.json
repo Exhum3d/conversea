@@ -1,136 +1,97 @@
 {
-    "Header": {
-
-        "title": "We are a Landing Page",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
-
-    },
-    "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
-        ],
-        "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
-        ]
-    },
-    "Services": [{
-            "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        }
-
-
+  "Header": {
+    "title": "Învață. Conversează. Socializează",
+    "paragraph": "Învață. Conversează. Socializează"
+  },
+  "About": {
+    "paragraph": "Suntem Conversea, o platformă online dedicată îmbunătățirii procesului de învățare a unei limbi străine cu ajutorul tehnologiei de ultimă generație. Misiunea noastră este de a face învățarea unei limbi străine mai accesibilă și mai eficientă pentru toți cei interesați, prin intermediul unei platforme intuitive și ușor de utilizat.",
+    "Why": [
+      "Personalizare",
+      "Utilizare ușoară",
+      "Inteligența Artificială",
+      "Instrumente diverse de învățare"
     ],
-    "Testimonials": [{
-            "img": "img/testimonials/01.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/06.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        }
-    ],
-    "Team": [{
-            "img": "img/team/01.jpg",
-            "name": "John Doe",
-            "job": "Director"
-        },
-        {
-            "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
-        }, {
-            "img": "img/team/03.jpg",
-            "name": "Jane Doe",
-            "job": "Senior Designer"
-        },
-        {
-            "img": "img/team/04.jpg",
-            "name": "Karen Doe",
-            "job": "Project Manager"
-        }
-    ],
-    "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
-        "facebook": "fb.com",
-        "twitter": "twitter.com",
-        "youtube": "youtube.com"
-    },
-    "Features": [{
-            "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-        },
-        {
-            "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-        },
-        {
-            "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-        },
-        {
-            "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-        }
+    "Why2": [
+      "Învățare distractivă",
+      "Experți în domeniu",
+      "Feedback și sugestii",
+      "Flexibilitate"
     ]
+  },
+  "Services": [
+    {
+      "icon": "fa fa-flask",
+      "name": "Scenarii simulate",
+      "text": "Platforma oferă oportunități de a exersa abilitățile de comunicare prin intermediul dialogurilor simulate cu inteligența artificială. "
+    },
+    {
+      "icon": "fa fa-random",
+      "name": "Ajustare dinamică",
+      "text": "Aplicația noastră va oferi scenarii dinamice generate de AI care se vor mula pe nevoile și competentele utilizatorului."
+    },
+    {
+      "icon": "fa fa-bar-chart",
+      "name": "Evaluări și monitorizare",
+      "text": "Conversea urmărește progresul utilizatorilor și oferă evaluări periodice pentru a măsura performanța și a identifica zonele de îmbunătățire."
+    },
+    {
+      "icon": "fa fa-suitcase",
+      "name": "Pachetul Enterprise",
+      "text": "Va oferi companiilor partenere un set de scenarii specializate în domeniul lor de activitate, asigurând o învățare cât mai rapidă și eficientă pentru mediul de lucru."
+    },
+    {
+      "icon": "fa fa-users",
+      "name": "Mod Cooperativ",
+      "text": "Aplicația va dispune de un mod cooperativ unde utilizatorul este pus în contact cu o persoană fluentă în altă limbă și de modul solo unde persoana fluentă este înlocuită cu AI-ul."
+    },
+    {
+      "icon": "fa fa-puzzle-piece",
+      "name": "Extensii",
+      "text": "O caracteristică care permite utilizatorilor să personalizeze experiența lor de învățare a limbii străine, adăugând noi funcționalități și caracteristici în platforma noastră"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Features": [
+    {
+      "icon": "fa fa-cogs",
+      "title": "Adaptabilitate",
+      "text": "Inteligența artificială se va mula pe nevoie utilizatorului și va regla nivelul de dificultate pe parcursul lecțiilor."
+    },
+    {
+      "icon": "fa fa-forward",
+      "title": "Dinamism",
+      "text": "AI-ul se va putea adapta situaților neașteptate, cu ajutorul algoritmilor de învatare."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Personalizare",
+      "text": "El va învăța și va respecta dorințele și obiceiurile fiecărui utilizator."
+    },
+    {
+      "icon": "fa fa-wheelchair",
+      "title": "Accesibilitate",
+      "text": "Platforma noastră țintește să fie cât mai accesibilă pentru persoanele cu dizabilități."
+    }
+  ]
 }
